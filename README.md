@@ -12,7 +12,7 @@ Users can input their tasks and hit the save button. Tasks will remain there unt
 - Run index.html on your favorite browser.
 - Be sure to keep all files in the same directory.
 
-Here is a sample of the 3 screens this portfolio consists of:
+Here is a sample of the planner:
 ![](assets/image_1.jpg)
 ![](assets/image_2.jpg)
 
