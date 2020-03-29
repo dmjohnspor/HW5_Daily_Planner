@@ -9,7 +9,7 @@ Users can input their tasks and hit the save button. Tasks will remain there unt
 
 ### Installing
 
-- Run 1quizmain.html on your favorite browser.
+- Run index.html on your favorite browser.
 - Be sure to keep all files in the same directory.
 
 Here is a sample of the 3 screens this portfolio consists of:
